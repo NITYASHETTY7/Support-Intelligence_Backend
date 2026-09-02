@@ -33,7 +33,7 @@
 ```mermaid
 flowchart TB
     A["Microphone Audio Stream<br>(Local Processing)"] --> B["Stream to AssemblyAI/Deepgram/Google Speech to text"]
-    B --> C["Live Transcription<br>with Speaker Labels"]
+    B --> C["Live Transcription"]
     C --> D{"Speech Break Detected?"}
     E["Gemini Flash<br>Sentiment Classification"] --> F["Sentiment Indicator<br>Positive | Neutral | Negative | Agitated"]
     F --> UI["Agent Dashboard"]
