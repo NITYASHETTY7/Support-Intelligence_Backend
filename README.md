@@ -302,7 +302,7 @@ Console Output Example:
 **License:** Proprietary - Internal Mirai Labs Use Only (POC Phase).
 
 **Support:**
-- Lead Developer: that_wolxfie57
+- Lead Developer: nityashetty7
 - Repository: Internal GitLab/GitHub
 
 **Document Version:** 0.0.1
